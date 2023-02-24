@@ -1,0 +1,20 @@
+/* Step 1: do later */
+
+/* Step 2 */
+body {
+    font-family: 'Poppins', serif;
+    background: url("/images/concrete_seamless.png"), #f1f1f1;
+}
+
+/* Step 3: */
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Step 4 */
+.nav_links {
+    display: flex;
+    flex-direction: column;
+}
